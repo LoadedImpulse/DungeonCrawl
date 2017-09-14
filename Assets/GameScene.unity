@@ -136,7 +136,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   floorTile: {fileID: 1044238409541034, guid: 2b95c1134d89a1349a950480b2c73064, type: 2}
-  ChanceForTile: 100
+  ChanceForTile: 50
   ListOfFloorTiles: []
 --- !u!4 &1381933860
 Transform:
